@@ -1,2 +1,3 @@
-# diy_3d_printed_rotating_display_stand
-DIY 3D printed rotating display stand
+# DIY 3D Printed Rotating Display Stand
+
+Watch the video at: [https://www.youtube.com/watch?v=hLj9UEuN1H0](https://www.youtube.com/watch?v=hLj9UEuN1H0)
